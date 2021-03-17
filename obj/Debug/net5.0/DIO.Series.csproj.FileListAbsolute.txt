@@ -1,0 +1,16 @@
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Usuário\Dropbox\Douglas\CURSOS\BOOTCAMP .NET C#\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
